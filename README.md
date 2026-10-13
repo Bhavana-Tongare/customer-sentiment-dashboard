@@ -56,13 +56,14 @@ An online shopping company receives thousands of product reviews, and reading th
 ![Sentiment](sentiment_distribution.png)
 
 ### Model vs ratings
-charts/confusion_matrix.png
+![Confusion matrix](confusion_matrix.png)
 
 ### Negative reviews by product
 ![Products](negative_by_product.png)
 
 ### Top complaints
 ![Complaints](complaints.png)
+
 
 
 ## Dashboard features
